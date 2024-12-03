@@ -1,2 +1,5 @@
 .pytest_cache
 Pipfile
+.venv/
+venv/
+__pycache__/
